@@ -1,3 +1,4 @@
+
 public class Application {
     private String courseName;
     private int courseID;
@@ -30,4 +31,5 @@ public class Application {
         return "Application(" +
                 "Course: " + courseName + ", Course ID: " + courseID+", ";
     }
+
 }
